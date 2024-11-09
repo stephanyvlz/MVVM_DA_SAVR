@@ -1,0 +1,16 @@
+D:\Archivos Phany\4toCuatrimestre\MVVM_implementacion_SAVR\MVVM_implementacion_SAVR\obj\Debug\netstandard2.0\MVVM_implementacion_SAVR.csproj.AssemblyReference.cache
+D:\Archivos Phany\4toCuatrimestre\MVVM_implementacion_SAVR\MVVM_implementacion_SAVR\obj\Debug\netstandard2.0\MVVM_implementacion_SAVR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos Phany\4toCuatrimestre\MVVM_implementacion_SAVR\MVVM_implementacion_SAVR\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Archivos Phany\4toCuatrimestre\MVVM_implementacion_SAVR\MVVM_implementacion_SAVR\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Archivos Phany\4toCuatrimestre\MVVM_implementacion_SAVR\MVVM_implementacion_SAVR\obj\Debug\netstandard2.0\Vista\pagina1.xaml.g.cs
+D:\Archivos Phany\4toCuatrimestre\MVVM_implementacion_SAVR\MVVM_implementacion_SAVR\obj\Debug\netstandard2.0\MVVM_implementacion_SAVR.AssemblyInfoInputs.cache
+D:\Archivos Phany\4toCuatrimestre\MVVM_implementacion_SAVR\MVVM_implementacion_SAVR\obj\Debug\netstandard2.0\MVVM_implementacion_SAVR.AssemblyInfo.cs
+D:\Archivos Phany\4toCuatrimestre\MVVM_implementacion_SAVR\MVVM_implementacion_SAVR\obj\Debug\netstandard2.0\MVVM_implementacion_SAVR.csproj.CoreCompileInputs.cache
+D:\Archivos Phany\4toCuatrimestre\MVVM_implementacion_SAVR\MVVM_implementacion_SAVR\bin\Debug\netstandard2.0\MVVM_implementacion_SAVR.deps.json
+D:\Archivos Phany\4toCuatrimestre\MVVM_implementacion_SAVR\MVVM_implementacion_SAVR\bin\Debug\netstandard2.0\MVVM_implementacion_SAVR.dll
+D:\Archivos Phany\4toCuatrimestre\MVVM_implementacion_SAVR\MVVM_implementacion_SAVR\bin\Debug\netstandard2.0\MVVM_implementacion_SAVR.pdb
+D:\Archivos Phany\4toCuatrimestre\MVVM_implementacion_SAVR\MVVM_implementacion_SAVR\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Archivos Phany\4toCuatrimestre\MVVM_implementacion_SAVR\MVVM_implementacion_SAVR\obj\Debug\netstandard2.0\MVVM_implementacion_SAVR.dll
+D:\Archivos Phany\4toCuatrimestre\MVVM_implementacion_SAVR\MVVM_implementacion_SAVR\obj\Debug\netstandard2.0\refint\MVVM_implementacion_SAVR.dll
+D:\Archivos Phany\4toCuatrimestre\MVVM_implementacion_SAVR\MVVM_implementacion_SAVR\obj\Debug\netstandard2.0\MVVM_implementacion_SAVR.pdb
+D:\Archivos Phany\4toCuatrimestre\MVVM_implementacion_SAVR\MVVM_implementacion_SAVR\obj\Debug\netstandard2.0\ref\MVVM_implementacion_SAVR.dll

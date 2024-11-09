@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3UWH/m8IhbcM9ohJeKTW6WOIZ8sl5/CxSSfVtsZAly4KHFmja6TOpswKwi0FpS44Z4EyhIURwpeQ/5P0kiOYFw==",
+  "success": true,
+  "projectFilePath": "D:\\Archivos Phany\\4toCuatrimestre\\MVVM_implementacion_SAVR\\MVVM_implementacion_SAVR.iOS\\MVVM_implementacion_SAVR.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cd18\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\cd18\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\cd18\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
